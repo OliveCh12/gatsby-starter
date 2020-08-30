@@ -1,0 +1,20 @@
+---
+templateKey: blog-post
+title: The best valley
+date: 2020-08-30T10:10:20.091Z
+description: Élisabeth Gabrielle Valérie Marie de Wittelsbach, duchesse en
+  Bavière, née le 25 juillet 1876 à Possenhofen en Bavière (Allemagne) et morte
+  le 23 novembre 1965 à Laeken (Bruxelles, Belgique), est issue de la branche
+  cadette de la maison de Wittelsbach.
+featuredpost: true
+featuredimage: /img/products-grid3.jpg
+tags:
+  - Traveling
+---
+**[Élisabeth](https://fr.wikipedia.org/wiki/%C3%89lisabeth_en_Bavi%C3%A8re_(1876-1965) "Élisabeth en Bavière (1876-1965)")** Gabrielle Valérie Marie de Wittelsbach, [duchesse](https://fr.wikipedia.org/wiki/Duc_en_Bavi%C3%A8re "Duc en Bavière") **en Bavière**, née le [25](https://fr.wikipedia.org/wiki/25_juillet "25 juillet") [juillet](https://fr.wikipedia.org/wiki/Juillet_1876 "Juillet 1876") [1876](https://fr.wikipedia.org/wiki/1876 "1876") à [Possenhofen](https://fr.wikipedia.org/wiki/Possenhofen "Possenhofen") en [Bavière](https://fr.wikipedia.org/wiki/Royaume_de_Bavi%C3%A8re "Royaume de Bavière") ([Allemagne](https://fr.wikipedia.org/wiki/Empire_allemand "Empire allemand")) et morte le [23](https://fr.wikipedia.org/wiki/23_novembre "23 novembre") [novembre](https://fr.wikipedia.org/wiki/Novembre_1965 "Novembre 1965") [1965](https://fr.wikipedia.org/wiki/1965 "1965") à [Laeken](https://fr.wikipedia.org/wiki/Laeken "Laeken") ([Bruxelles](https://fr.wikipedia.org/wiki/Bruxelles "Bruxelles"), [Belgique](https://fr.wikipedia.org/wiki/Belgique "Belgique")), est issue de la branche cadette de la [maison de Wittelsbach](https://fr.wikipedia.org/wiki/Maison_de_Wittelsbach "Maison de Wittelsbach").
+
+En 1900, elle épouse le prince Albert de Belgique, roi en 1909 sous le nom d'[Albert Ier](https://fr.wikipedia.org/wiki/Albert_Ier_(roi_des_Belges) "Albert Ier (roi des Belges)"), et devient dès lors la troisième [reine consort des Belges](https://fr.wikipedia.org/wiki/Liste_des_reines_des_Belges "Liste des reines des Belges") jusqu'en 1934. La [famille grand-ducale luxembourgeoise](https://fr.wikipedia.org/wiki/Famille_grand-ducale_luxembourgeoise "Famille grand-ducale luxembourgeoise") et les familles royales [italienne](https://fr.wikipedia.org/wiki/Maison_de_Savoie "Maison de Savoie") et [belge](https://fr.wikipedia.org/wiki/Famille_royale_belge "Famille royale belge") sont des descendantes de la reine Élisabeth.
+
+Élisabeth et son mari partagent une vision humaniste et pacifiste de la société. Le roi et la reine forment un couple très vite populaire et donnent une image modernisée de la monarchie, dont ils renouvellent le style. Issu d'une lignée aux racines germaniques et mari d'une princesse allemande, le roi choisit en [1914](https://fr.wikipedia.org/wiki/1914_en_Belgique "1914 en Belgique") de défendre son pays, pourtant [créé neutre](https://fr.wikipedia.org/wiki/Trait%C3%A9_des_XVIII_articles "Traité des XVIII articles"), et de combattre l'[invasion allemande](https://fr.wikipedia.org/wiki/Occupation_allemande_de_la_Belgique_pendant_la_Premi%C3%A8re_Guerre_mondiale "Occupation allemande de la Belgique pendant la Première Guerre mondiale"), affirmant le caractère belge de [sa dynastie](https://fr.wikipedia.org/wiki/Maison_de_Saxe-Cobourg_et_Gotha_(Belgique) "Maison de Saxe-Cobourg et Gotha (Belgique)").
+
+Pendant toute la [guerre](https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale "Première Guerre mondiale"), le roi refuse de suivre le [gouvernement belge](https://fr.wikipedia.org/wiki/Gouvernement_de_Broqueville_I "Gouvernement de Broqueville I"), qui s'est réfugié en [France](https://fr.wikipedia.org/wiki/France "France") à [Sainte-Adresse](https://fr.wikipedia.org/wiki/Sainte-Adresse "Sainte-Adresse"), dans la banlieue du [Havre](https://fr.wikipedia.org/wiki/Le_Havre "Le Havre"), et il reste à la tête de l'armée pour la diriger. Il établit son quartier-général à [La Panne](https://fr.wikipedia.org/wiki/La_Panne "La Panne"), où la reine le rejoint et participe activement aux soins dispensés aux blessés de guerre. Elle y recueille le surnom de « Reine infirmière ».
